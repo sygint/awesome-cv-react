@@ -1,0 +1,28 @@
+{
+  "name": "awesome-cv-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^16.18.12",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "build": "mkdir -p build && tsx ./build.tsx",
+    "dev": "nodemon"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "devDependencies": {
+    "@react-pdf/renderer": "^3.1.9",
+    "nodemon": "^2.0.22",
+    "tsx": "^3.12.6"
+  }
+}

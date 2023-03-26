@@ -1,0 +1,139 @@
+{
+  "name": "First Last",
+  "positions": ["Software Engineer", "Front End Engineer"],
+  "phone": "1234567890",
+  "email": "email@example.com",
+  "website": "example.com",
+  "github": "github.com/username",
+  "code": "",
+  "sections": [
+    {
+      "title": "Technologies",
+      "type": "2-col",
+      "items": [
+        {
+          "title": "Languages",
+          "items": [
+            "Et",
+            "Praesentium",
+            "Corrupti",
+            "Laudantium",
+            "Sit",
+            "Voluptatem",
+            "Quam",
+            "Officia"
+          ]
+        },
+        {
+          "title": "Frameworks",
+          "items": [
+            "Vero",
+            "Deserunt",
+            "Nesciunt",
+            "Quia",
+            "Et",
+            "Molestiae",
+            "Inventore",
+            "Voluptas",
+            "Ratione"
+          ]
+        },
+        {
+          "title": "Operating Systems",
+          "items": ["Cupiditate", "Aut", "Aperiam", "Et", "Vel", "Non"]
+        },
+        {
+          "title": "Virtualization",
+          "items": ["In", "Quo", "Aut", "Vitae", "Totam"]
+        },
+        {
+          "title": "Other",
+          "items": [
+            "Aut",
+            "Sint",
+            "Molestiae",
+            "Libero",
+            "Est",
+            "Quo",
+            "Sed",
+            "Dolor"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Volunteering",
+      "items": [
+        {
+          "organization": "Underdog Devs",
+          "position": "Mentor",
+          "location": "Remote",
+          "dates": "Sept 2020 - Present",
+          "items": [
+            "Dignissimos excepturi nesciunt officia non non dolores",
+            "Voluptas eveniet iure recusandae quod voluptas repellat nemo",
+            "Tempora incidunt sed itaque sapiente autem voluptatem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "items": [
+        {
+          "organization": "Minus Dignissimos Sapiente",
+          "location": "Remote",
+          "dates": "Oct 2022 - Present",
+          "position": "Creator / Software Engineer",
+          "items": [
+            "Ut deleniti voluptatibus occaecati at id suscipit et voluptas",
+            "At nihil est earum ut sed amet officiis",
+            "Aut nam vel est et cupiditate ipsa sed",
+            "Quos in odit impedit porro et architecto"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Experience",
+      "items": [
+        {
+          "organization": "Fugit Et Est",
+          "position": "Full Stack Engineer",
+          "location": "Remote",
+          "dates": "Nov 2020 - Jan 2022",
+          "items": [
+            "Repudiandae quos distinctio velit adipisci sapiente",
+            "Culpa impedit quibusdam sed non sed doloremque",
+            "Ut atque perspiciatis rerum laudantium id recusandae omnis",
+            "In aut voluptatem ipsum voluptatem qui numquam sint perferendis"
+          ]
+        },
+        {
+          "organization": "Laudantium Id Recusandae",
+          "location": "Remote",
+          "position": "Front End Engineer",
+          "dates": "Aug 2020 - May 2021",
+          "items": [
+            "Repudiandae quos distinctio velit adipisci sapiente",
+            "Culpa impedit quibusdam sed non sed doloremque",
+            "Ut atque perspiciatis rerum laudantium id recusandae omnis",
+            "In aut voluptatem ipsum voluptatem qui numquam sint perferendis"
+          ]
+        },
+        {
+          "organization": "Quisquam Sit Iure",
+          "location": "Remote",
+          "position": "Full Stack Engineer",
+          "dates": "July 2020 - July 2020",
+          "items": [
+            "Repudiandae quos distinctio velit adipisci sapiente",
+            "Culpa impedit quibusdam sed non sed doloremque",
+            "Ut atque perspiciatis rerum laudantium id recusandae omnis",
+            "In aut voluptatem ipsum voluptatem qui numquam sint perferendis"
+          ]
+        }
+      ]
+    }
+  ]
+}
