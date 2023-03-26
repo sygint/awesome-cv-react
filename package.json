@@ -12,6 +12,8 @@
   },
   "scripts": {
     "build": "mkdir -p build && tsx ./build.tsx",
+    "convert": "mkdir -p build && tsx ./convert.ts",
+    "examples": "npm run build && mv build/resume.pdf examples/resume.pdf && npm run convert",
     "dev": "nodemon"
   },
   "eslintConfig": {
@@ -23,6 +25,9 @@
   "devDependencies": {
     "@react-pdf/renderer": "^3.1.9",
     "nodemon": "^2.0.22",
+    "npm-run-all": "^4.1.5",
+    "pdf-image": "^2.0.0",
+    "pdf-to-png-converter": "^2.7.1",
     "tsx": "^3.12.6"
   }
 }
