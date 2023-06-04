@@ -23,7 +23,7 @@ In the project directory, you can run:
 
 ### `npm run build`
 
-Builds your `cv.pdf` to the `build` folder. It utilizes [@react-pdf/renderer](https://github.com/diegomura/react-pdf) to render the JSX into a `.pdf`.
+Builds your `resume.pdf` to the `build` folder. It utilizes [@react-pdf/renderer](https://github.com/diegomura/react-pdf) to render the JSX into a `.pdf`.
 
 ## `npm run dev`
 
