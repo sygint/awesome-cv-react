@@ -11,9 +11,8 @@
     "typescript": "^4.9.5"
   },
   "scripts": {
-    "build": "mkdir -p build && tsx ./build.tsx",
-    "convert": "mkdir -p build && tsx ./convert.ts",
-    "examples": "npm run build && mv build/resume.pdf examples/resume.pdf && npm run convert",
+    "build": "mkdir -p build && tsx ./build.tsx && npm run preview",
+    "preview": "cp ./build/resume.pdf ./preview && tsx ./convert.ts",
     "dev": "nodemon"
   },
   "eslintConfig": {

@@ -4,9 +4,9 @@ This is highly inspired by [Awesome-CV](https://github.com/posquit0/Awesome-CV).
 
 ## Preview
 
-You can see [PDF](https://raw.githubusercontent.com/sygint/awesome-cv-react/master/examples/resume.pdf)
+You can see [PDF](preview/resume.pdf)
 
-[![Résumé](https://raw.githubusercontent.com/sygint/awesome-cv-react/master/examples/resume_page_1.png)](https://raw.githubusercontent.com/sygint/awesome-cv-react/master/examples/resume.pdf)
+[![Résumé](preview/resume_page_1.png)](preview/resume.pdf)
 
 # Getting Started
 
@@ -28,10 +28,6 @@ Builds your `cv.pdf` to the `build` folder. It utilizes [@react-pdf/renderer](ht
 ## `npm run dev`
 
 Runs a nodemon watch script that watches for changes and rebuilds your `cv.pdf`.
-
-## `npm run examples`
-
-Updates the examples PDF and PNG.
 
 ## Work In Progress
 

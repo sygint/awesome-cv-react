@@ -4,9 +4,9 @@ import type { PngPageOutput } from "pdf-to-png-converter";
 
 (async function convert() {
   try {
-    const pngPages: PngPageOutput[] = await pdfToPng("./examples/resume.pdf",
+    const pngPages: PngPageOutput[] = await pdfToPng("./build/resume.pdf",
     {
-        outputFolder: 'examples',
+        outputFolder: 'preview',
         outputFileMask: 'resume',
         verbosityLevel: 0,
     });
