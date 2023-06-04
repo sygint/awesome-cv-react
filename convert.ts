@@ -10,6 +10,8 @@ import type { PngPageOutput } from "pdf-to-png-converter";
         outputFileMask: 'resume',
         verbosityLevel: 0,
     });
+
+    console.log(`generated ${pngPages.length} images`)
   }
   catch (e) {
     console.error(e);
