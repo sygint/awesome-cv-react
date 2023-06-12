@@ -1,6 +1,6 @@
 # Awesome CV React
 
-This is highly inspired by [Awesome-CV](https://github.com/posquit0/Awesome-CV). It's my attempt at a port to React for an easier config via JSON, simpler styling via CSS, simpler layout with JSX, and easier dependency management via npm.
+This is highly inspired by [Awesome-CV](https://github.com/posquit0/Awesome-CV). It's my attempt at a port to React for an easier config via YAML, simpler styling via CSS, simpler layout with JSX, and easier dependency management via npm.
 
 ## Preview
 
@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Configuration
 
-All of the config is found in `details.json` in the root directory. It's fairly self explanatory, feel free to hit me up if you have any questions.
+All of the config is found in `details.yaml` in the root directory. It's fairly self explanatory, feel free to hit me up if you have any questions.
 
 # Available Scripts
 
