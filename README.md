@@ -2,7 +2,7 @@
 > This currently generates incorrect characters in the PDF copy due to a potential issue in react-pdf, I will look into removing dependency on react-pdf and generating the pdf via puppeteer to solve this. Avoid usage, for now.
 # Awesome CV React
 
-This is highly inspired by [Awesome-CV](https://github.com/posquit0/Awesome-CV). It's my attempt at a port to React for an easier config via YAML, simpler styling via CSS, simpler layout with JSX, and easier dependency management via npm.
+This is highly inspired by [Awesome-CV](https://github.com/posquit0/Awesome-CV). It's my attempt at a React clone with an easier config via YAML, simpler styling via CSS, simpler layout with JSX, and easier dependency management via npm.
 
 ## Preview
 
